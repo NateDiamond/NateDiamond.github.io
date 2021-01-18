@@ -12,3 +12,17 @@
 .icon-block .material-icons {
 	font-size: inherit;
 }
+
+#logo-container {
+  width: 100%;
+  text-align: center;
+}
+
+#title-bar {
+  width: 95%;
+}
+
+#right-choices {
+  z-index: 1;
+  position: relative;
+}
